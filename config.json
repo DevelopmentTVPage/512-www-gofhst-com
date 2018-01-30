@@ -1,0 +1,15 @@
+{
+    "title": "Cheelo breeki",
+    "baseURL": "https:\/\/www.gofhst.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759047",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "gofhst.com"
+    }
+}
